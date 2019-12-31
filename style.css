@@ -109,7 +109,7 @@ h1 {
 
 
 /* Show Boxes */
-/* #timeline ul li.show div {
+#timeline ul li.show div {
   transform: none;
   visibility: visible;
   opacity: 1;
@@ -117,7 +117,7 @@ h1 {
 
 #timeline ul li.show:after {
   background: var(--secondary-color);
-} */
+}
 
 /* Media Queries */
 
